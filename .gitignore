@@ -23,3 +23,5 @@
 hs_err_pid*
 replay_pid*
 /.idea/
+/src/main/resources/jenkins/jenkins_home/jobs/*/builds/
+/src/main/resources/jenkins/jenkins_home/init.groovy.d/

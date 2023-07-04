@@ -19,7 +19,7 @@ ___
 
 for run tests inside Jenkins:
 - run ```docker-compose up -d --build``` in directory where located [docker-compose.yml](docker-compose.yml) file
-- open local [jenkins host](http://localhost:8080) in your web browser
+- open local [jenkins host](http://localhost:8080) in your web browser login ```admin``` and password ```admin```
 - go to pipelines and run BTA pipeline
     - after test execution, test report will be available in Allure report by link in your finished pipeline
 
